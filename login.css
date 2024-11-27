@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.caja{
+    display: inline-block;
+    border: 1px solid black;
+    margin-top: 200px;
+    margin-left: 820px;
+    background-color: rgb(215, 154, 154);
+    padding: 20px;
+}
+h2{
+    color: white;
+    margin-left: 70px;
+}
+form{
+    padding: 20px;
+}
+label{
+    color: white;
+}
+
+input{
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+button{
+    margin-left: 70px;
+    padding: 10px;
+    border: none;
+    background-color: greenyellow;
+    border-radius: 20px;
+}
+
+button:hover{
+    cursor: pointer;
+}
